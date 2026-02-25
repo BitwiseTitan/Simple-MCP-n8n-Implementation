@@ -7,7 +7,7 @@ set REGION1_WEBHOOK=http://localhost:5678/webhook/latest-region1
 
 REM Groq API Key (required for agents.py)
 REM Replace with your actual API key
-set GROQ_API_KEY=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
+set GROQ_API_KEY=your-api-key
 
 echo Environment variables set for current session:
 echo   REGION1_WEBHOOK = %REGION1_WEBHOOK%
