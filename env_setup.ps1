@@ -6,7 +6,7 @@ $env:REGION1_WEBHOOK = "http://localhost:5678/webhook/latest-region1"
 
 # Groq API Key (required for agents.py)
 # Replace with your actual API key
-$env:GROQ_API_KEY = "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"
+$env:GROQ_API_KEY = "your-api-key"
 
 Write-Host "Environment variables set for current session:"
 Write-Host "  REGION1_WEBHOOK = $env:REGION1_WEBHOOK"
